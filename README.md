@@ -1,0 +1,2 @@
+# autoWechatCollector
+autoCollectorWechat
